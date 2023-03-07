@@ -1,0 +1,19 @@
+.modal-inner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.take-home-button{
+    border: 1px solid black;
+    padding: 2px 4px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.take-home-button i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 4px;
+}  
